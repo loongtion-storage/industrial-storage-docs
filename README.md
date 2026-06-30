@@ -39,5 +39,18 @@ Download the latest PDFs on our website:
 Email **hi@loongtion.com** with part number, quantity, and application. Reply usually within 24 hours (Mon–Fri, UTC+8).
 
 ---
+## White paper files (GitHub mirror)
 
+| Document | Download |
+|----------|----------|
+| M.2 NVMe DRAM cache | [PDF](Loongtion-industrial-m2-nvme-dram-cache-whitepaper-v2.2.pdf) |
+| M.2 NVMe DRAM-less | [PDF](Loongtion-industrial-m2-nvme-cacheless-whitepaper-v2.2.pdf) |
+| NVMe BGA SSD | [PDF](Loongtion-industrial-nvme-bga-ssd-whitepaper-v.2.pdf) |
+| eMMC 5.1 | [PDF](Loongtion-industrial-emmc-5-1-whitepaper-v3.0.pdf) |
+| LPDDR4X | [PDF](Loongtion-industrial-lpddr4x-sdram-whitepaper-v3.2.pdf) |
+| DDR5 | [PDF](Loongtion-industrial-ddr5-sdram-whitepaper-v1.1.pdf) |
+| DDR4 | [PDF](Loongtion-industrial-ddr4-sdram-whitepaper-v1.3.pdf) |
+| DDR3 | [PDF](Loongtion-industrial-ddr3-sdram-whitepaper-v2.2.pdf) |
+
+Latest revision & commercial terms: **https://www.loongtion.com**
 © Loongtion · Ningbo Loongtion Intelligent Technology Co., Ltd.
