@@ -1,14 +1,9 @@
-# Loongtion Industrial Storage — Technical Documentation
+# Loongtion Industrial Storage Documentation
 
-**Loongtion** (龙瑆) designs and supplies industrial-grade memory and solid-state storage for embedded systems, industrial automation, telecom edge, and harsh-environment civilian programs.
+Technical white papers and integration guides for Loongtion **industrial memory chips** (DDR3–DDR5 DRAM, LPDDR4X, eMMC 5.1, NVMe BGA) and industrial SSD/DOM products — solder-down ICs for embedded BOMs, not consumer RAM sticks or SODIMM modules.
 
-- **Website:** https://www.loongtion.com  
-- **Contact:** hi@loongtion.com  
-- **Organization:** https://github.com/loongtion-storage  
-
-> Official datasheets, quotations, and BOM review: https://www.loongtion.com  
-> End-use: civilian industrial, embedded, and infrastructure programs only.
-
+**Memory chips LP:** https://www.loongtion.com/lp/industrial-memory-chips  
+**Quote / BOM:** hi@loongtion.com
 ---
 
 ## Product lines
